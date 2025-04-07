@@ -1,10 +1,10 @@
 # Site settings
-title: 闫肃的博客
-email: suyan0830@gmail.com
+title: 橡树的博客
+email: oak339@linux.do
 description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
+  橡树的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yansu.org # the base hostname & protocol for your site
+url: https://oak339.github.io # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: Su Yan
 
@@ -14,11 +14,11 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: suyan404
-weibo: suyan0830
-github: suyan
-instagram: suyan404
-linkedin: suyan404
+twitter: oak339
+weibo: oak339
+github: oak339
+instagram: oak339
+linkedin: oak339
 
 # avatar and Favicon
 avatar: http://imgs.yansu.org/site-avatar.png
